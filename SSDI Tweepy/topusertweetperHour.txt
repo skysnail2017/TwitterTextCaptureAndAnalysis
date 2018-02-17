@@ -1,0 +1,30 @@
+Top 10 user who have tweeted the most at 2018-Feb-15-23
+
+Name
+z5zzFxDvolD0GYa    4
+girlsgottaeat      3
+TroyHornberger1    3
+Platinum_Rays      2
+Emmeey             2
+dannydyerfan__     2
+myworldbrook       2
+DHobituaries       2
+Jolette21499977    2
+MsSalazar_CENMS    2
+Name: counts, dtype: int64
+
+Top 10 user who have tweeted the most at 2018-Feb-15-22
+
+Name
+z5zzFxDvolD0GYa    4
+JustSewHelen       2
+Alessan79080159    2
+gabycordero_       2
+MegaDriveXSG       2
+setsuko_gerhart    2
+hottestdolan       2
+SiskaTorben        2
+PRAthletic         1
+PMafull            1
+Name: counts, dtype: int64
+
